@@ -1,0 +1,9 @@
+machine:
+  ruby:
+    version: 2.2.0
+test:
+  pre:
+    - rake install
+    - gem install twitter_oauth_token
+  override:
+    - ruby test/authorize_url_test.rb
