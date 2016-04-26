@@ -45,7 +45,7 @@ TwitterOAuthToken::get(prompts)
 
 ### Examples
 
-- [test](https://github.com/dkhamsing/twitter_oauth_token/blob/stable/test/authorize_url_test.rb)
+- [test](https://github.com/dkhamsing/twitter_oauth_token/blob/master/test/authorize_url_test.rb)
 - [`update_profile_pic`](https://github.com/dkhamsing/update_profile_pic)
 
 ## Credits
