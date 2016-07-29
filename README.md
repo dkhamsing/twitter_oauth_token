@@ -47,6 +47,7 @@ TwitterOAuthToken::get(prompts)
 
 - [test](https://github.com/dkhamsing/twitter_oauth_token/blob/master/test/authorize_url_test.rb)
 - [`update_profile_pic`](https://github.com/dkhamsing/update_profile_pic)
+- [`delete_my_tweets`](https://github.com/dkhamsing/delete_my_tweets)
 
 ## Credits
 
